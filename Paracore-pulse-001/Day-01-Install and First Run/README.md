@@ -29,4 +29,4 @@ This episode shows how to install and set up Paracore, then run your first scrip
 ---
 
 ## Video
-▶ [Watch on YouTube](YOUR_LINK_HERE)
+▶ [Watch on YouTube]https://youtu.be/_E6QmXQl3WE
