@@ -1,4 +1,21 @@
-# Day 02 — Paracore UI and CoreScript
+
+![Paras Codarch Logo](assets/ParasCodarch.png)
+## Day 02 — Paracore UI and CoreScript (≈ 3 minutes)
+
+🎬 **Watch the Day 02 walkthrough:** https://youtu.be/VIDEO_ID
+
+This is a short, focused 3-minute walkthrough to quickly show the Paracore UI and create a simple CoreScript you can run yourself.
+
+---
+
+## 3-minute walkthrough (follow these steps)
+
+1. **Quick intro:** This guide covers the UI and how to create & run a short script.
+2. **See the UI:** Learn where the TopBar, Sidebar, Gallery, ScriptInspector, and FloatingCodeViewer are located.
+3. **Create a script:** Load a folder as a script source, click **New Script**, then **Edit in VSCode**.
+4. **Edit & run:** With **Auto Save** enabled, edit the script in VSCode, save, and run it in Paracore (watch the result in Revit).
+
+---
 
 A practical, step-by-step guide to accompany the Day 2 video: exploring the Paracore UI, creating your first script, and understanding the few helper globals that make CoreScript comfortable.
 
@@ -6,10 +23,11 @@ A practical, step-by-step guide to accompany the Day 2 video: exploring the Para
 
 ## Prerequisites
 
-- **Latest Paracore build:** Please download/update before following along. Features evolve quickly.
-- **Revit installed:** Tested with 2025+.
-- **VSCode:** Enable autosave for the best experience.
-- **Basic C#:** Scripts are plain C# (we call them CoreScripts inside Paracore).
+- **Latest Paracore build:** Download the latest release before following along (features evolve quickly):
+  - [Download the latest Paracore release](https://github.com/Sey56/Paracore-Scripts/releases/latest)
+- **Revit:** works with Revit 2025 and 2026.
+- **VS Code:** Enable Auto Save for the best experience.
+- **Basic C#:** Scripts are plain C# (called **CoreScripts** inside Paracore).
 
 ---
 
@@ -131,3 +149,9 @@ else
 
     Println("✅ Wall created.");
 }
+
+---
+
+## Resources
+
+- 🎬 **Day 02 walkthrough (video):** https://youtu.be/VIDEO_ID
